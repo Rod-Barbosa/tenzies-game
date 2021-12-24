@@ -1,6 +1,6 @@
-# Scrimba Frontend Career Path - (Momentum Chrome Extension - Module 07)
+# Scrimba Frontend Career Path - (Tenzies - Module 11)
 
-This is a solution to the [Scrimba Frontend Career Path - (Module07-APIs/Game of War)](https://scrimba.com/learn/frontend).
+This is a solution to the [Scrimba Frontend Career Path - (Module11-React/Tenzies Game)](https://scrimba.com/learn/frontend).
 
 ## Table of contents
 
